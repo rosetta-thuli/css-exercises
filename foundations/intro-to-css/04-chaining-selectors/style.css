@@ -1,1 +1,9 @@
-/* Add CSS Styling */
+.avator.proportioned {
+    height: auto;
+    width: 300px;
+}
+
+.avator.distorted{
+    height: auto;
+    width: 200px;
+}
